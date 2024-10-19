@@ -1,8 +1,7 @@
 Hi 👋, I am Mahi Sharma
 
 
-A Passionate Java Backend Developer with hands-on experience in designing, developing, and maintaining projects. Adept at learning, unlearning, and relearning.
-aman3512
+A Passionate Java Backend Developer with hands-on experience in designing, developing, and maintaining projects. 
 
 🔭 I’m currently working on SpringBoot
 
