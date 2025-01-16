@@ -14,9 +14,7 @@
 - 💬 Ask me about **JAVA , Spring boot ,**
 
 - 📫 How to reach me **20mahisharma2003@gmail.com**
-
-- 📄 Know about my experiences [Resume - https://drive.google.com/file/d/1RWZJ4u4BZn12kHOctcbxCcSOYPt06tQs/view?usp=drive_link](Resume - https://drive.google.com/file/d/1RWZJ4u4BZn12kHOctcbxCcSOYPt06tQs/view?usp=drive_link)
-
+- 
 - ⚡ Fun fact **I’m on a mission to solve a coding problem every day – it’s like my daily cup of coffee!**
 
 ### Blogs posts
